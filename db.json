@@ -1,1 +1,14 @@
-data: {errCode: "8", userInfoList: [{phone: "13125176768", realName: "容一民"}, {phone: null, realName: "黄良辉"}]}
+{
+data: {
+	errCode: "8",
+	userInfoList: [{
+		phone: "13125176768",
+		realName: "容一民"
+	}, {
+		phone: null,
+		realName: "黄良辉"
+	}]
+}
+resultCode: 0
+resultMsg: "success"
+}
